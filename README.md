@@ -22,3 +22,6 @@ Task 5: PorterStemmer,Snowballstemmer,LancasterStemmer,WordNetLemmatizer
 Task 6: Predicting if a name is of a girl/boy using NaiveBayesClassifier
 
 Task 7: Working with webtext and inaugral words
+
+
+Additional: Cosine Similarity
