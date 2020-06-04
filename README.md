@@ -23,5 +23,6 @@ Task 6: Predicting if a name is of a girl/boy using NaiveBayesClassifier
 
 Task 7: Working with webtext and inaugral words
 
+Task 8: Difference between word and sentence tokenizaton,tweet tokenization
 
 Additional: Cosine Similarity
